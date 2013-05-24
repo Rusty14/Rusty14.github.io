@@ -1,0 +1,13 @@
+name: Taylor Lee
+safe: true
+permalink: /:categories/:title
+# url: http://yourUrl
+markdown: maruku
+port: 4000
+future: false
+exclude:
+- README.md
+- CNAME
+- params.json
+- Gemfile
+- Gemfile.lock
