@@ -6,8 +6,3 @@ Rusty14.github.io
 Created using github pages template   
 Since then modified to be served up using Jekyll
 
-#Todo:
-create & link new page
-post photo
-create comment able page
-
