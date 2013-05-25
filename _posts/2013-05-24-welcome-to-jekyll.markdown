@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to Jekyll!"
 date:   2013-05-24 00:16:15
-categories: jekyll update
+categories: posts
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
