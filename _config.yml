@@ -1,7 +1,7 @@
 name: TaylorLee.ca
 safe: true
 permalink: /:categories/:title
-url: http://www.taylorlee.com
+url: http://www.taylorlee.ca
 markdown: maruku
 port: 4000
 future: false
