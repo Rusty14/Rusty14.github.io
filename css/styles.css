@@ -342,6 +342,14 @@ footer .owner p a {
   font-style: italic;
 }
 
+img.headback 
+{
+position:relative;
+left:575px;
+top:160px;
+z-index:1;
+}
+
 /* Markdown */
 .markdown-body h1,
 .markdown-body h2,
