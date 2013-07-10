@@ -1,8 +1,10 @@
-<H1 style="text-align: center;color: orangered; "> * This site is currently under construction *</H1>
-<img style="padding-left:30%;width:250px;height:250px;"src="/img/construct.png" alt="Under Construction!">
-<h2><a href="/Resume">Resume</a></h2>
-<h2>Blog...</h2>
 
-{% for post in site.categories.posts %}
-<h5><a href="{{ post.url }}"> {{ post.title }}</a></h5>
+<div style="position:fixed;top:0px;left:20px;height:200px;width:150px;background-color:#fb6d00;text-align:center;border-bottom-right-radius:10px;border-bottom-left-radius:10px;-moz-border-bottom-radius:10px;">
+  <h5 style="text-align: center;color: black; ">This site is currently under construction</h5>
+  <img style="width:100px;height:100px;"src="/img/construct.png" alt="Under Construction!">
+</div>
+<h2>About me...</h2>
+<p>I am a electrical engineering student studying at Conestoga College in Waterloo. I am interested in designing neat little circuit boards and stuff! View my <a href="/Resume">resume...</a></p>
+{% for project in site.categories.projects %}
+<!-- <h5><a href="{{ post.url }}"> {{ post.title }}</a></h5> -->
 {% endfor %}
