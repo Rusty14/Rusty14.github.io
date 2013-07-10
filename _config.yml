@@ -3,7 +3,7 @@ safe: true
 permalink: /:categories/:title
 url: http://www.taylorlee.ca
 markdown: maruku
-port: 4000
+port: 4040
 future: false
 exclude:
 - README.md
